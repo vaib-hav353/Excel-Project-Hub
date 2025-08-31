@@ -18,7 +18,7 @@ With interactive visuals and automated calculations, this dashboard helps busine
 
 <img width="1833" height="661" alt="Screenshot 2025-08-31 193406" src="https://github.com/user-attachments/assets/894fbbe4-76a1-4c4a-866b-632b54a61b1c" />
 
-Screenshot 2025-03-19 143202
+Screenshot 2025-08-31 143202
 
 #ExcelDashboard #DataVisualization #Viranda #Analytics #ExcelExpert # BusinessIntelligence #VirandaStoreDashboard 
 I'm exceited to share my latest Excel Viranda Store Dashboard and Analysis!
